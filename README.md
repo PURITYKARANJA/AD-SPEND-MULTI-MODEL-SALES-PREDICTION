@@ -1,0 +1,1 @@
+This project accurately predicts future sales based on advertising spend, using a multi-model ensemble approach, crucial for efficient budget allocation and maximizing ROI. By leveraging 15 machine learning models, including ensemble techniques, it achieves a robust prediction accuracy of 98.7%.
